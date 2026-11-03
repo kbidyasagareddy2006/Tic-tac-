@@ -1,0 +1,6 @@
+{
+  "name": "Neon Tic-Tac-Toe: Cyber Match",
+  "description": "A polished, responsive Tic-Tac-Toe web game featuring AI vs Human with Minimax difficulty, local 2-player mode, neon cyber visuals, sound effects, and persistent match statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
